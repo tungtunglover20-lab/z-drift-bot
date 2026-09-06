@@ -7,7 +7,7 @@ const { postMatchLog } = require('../utils/logger');
 // the command. Change these (and the loop bounds below) if your league's
 // series format isn't "best of 7, minimum 4 to decide it".
 const MAX_GAMES = 7;
-const MIN_GAMES = 4;
+const MIN_GAMES = 1;
 
 function addGameOptions(builder, gameNum, required) {
   return builder
