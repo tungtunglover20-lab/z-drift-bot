@@ -20,5 +20,5 @@ module.exports = {
   // (User Settings > Advanced > Developer Mode), then right-click your
   // own name/avatar and choose "Copy User ID".
   // ---------------------------------------------------------------------
-  OWNER_ID: 'YOUR_DISCORD_ID_HERE',
+  OWNER_ID: '1253564117483126841',
 };
